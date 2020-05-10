@@ -1,5 +1,5 @@
 # iducs2020
-deptmenet of computer software, induk university
+Deptmenet of Computer Software, Induk University
 
 java programming
 spring programming
